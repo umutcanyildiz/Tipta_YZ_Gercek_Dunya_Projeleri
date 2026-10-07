@@ -1,0 +1,10 @@
+# Veri seti klasörlerini tamamen engelle
+**/aptos_dataset/
+**/OCT2017/
+
+# Görüntü ve veri dosyalarını engelle
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.zip
